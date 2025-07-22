@@ -1,1 +1,13 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.guzsbhtk.twa",
+      "sha256_cert_fingerprints": [
+  "E8:6C:97:2A:96:5C:7A:63:F3:0B:78:4F:94:88:EA:FB:44:34:5A:AD:80:43:36:52:AE:A6:AD:AD:D5:3C:D1:EA",
+  "63:D4:A9:3B:A7:79:C1:32:B2:20:50:A6:DE:13:DF:69:77:EF:0B:88:28:0E:B4:CC:53:0E:CE:2B:0D:D6:75:C8",
+]
+    }
+  }
+]
